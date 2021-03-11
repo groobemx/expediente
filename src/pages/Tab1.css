@@ -1,0 +1,14 @@
+.in {
+  --background: #ffffff;
+
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 10px;
+}
+.color1 {
+  --background: #b199d8;
+}
+.app {
+  font-family: sans-serif;
+  text-align: center;
+}

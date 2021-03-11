@@ -1,0 +1,13 @@
+.in {
+  --background: #838080ac;
+
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 10px;
+}
+.color1 {
+  --background: #b199d8;
+}
+.color2 {
+  --background: #99d8c0;
+}
