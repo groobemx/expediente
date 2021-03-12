@@ -66,5 +66,16 @@
     "@ionic/app-scripts": "^3.2.4",
     "@types/firebase": "^3.2.1"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/groobemx/expediente.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/groobemx/expediente/issues"
+  },
+  "homepage": "https://github.com/groobemx/expediente#readme"
 }
